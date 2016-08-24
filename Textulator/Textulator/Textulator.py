@@ -1,3 +1,4 @@
+from __future__ import division
 import sys, math, os
 from math import *
 # Hopefully, this will work for both versions of python (2 and 3)
