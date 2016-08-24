@@ -30,7 +30,8 @@ info = [
             "% is used to find the remainder of a division",
             "// is used for floor division (everything after the decimal point is removed), shorthand for: floor(x / y)",
             "For more detailed help go to: https://docs.python.org/3/library/math.html (remove the math. from the start though)",
-            "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+            "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+            "PLEASE NOTE: Some functions may, or may not be available depending on which version of Python you are using. The more recent, the better."
         ]
     ]
 def printStart():
